@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Buildathon App</string>
+    <string-array name="Spinner_Categories">
+        <item>User</item>
+        <item>Shop Owner</item>
+        <item>Hospital</item>
+
+    </string-array>
+</resources>
